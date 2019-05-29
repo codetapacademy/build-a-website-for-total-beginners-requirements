@@ -71,6 +71,21 @@ Here is a quick preview of the structure of the website. It is not a design, it 
 * The title of it should be `Lives saved`
 * Add the following table
 
+| Year | Model | Sales | Lives | Total lives saved per model |
+|------|:-----:|------:|------:|----------------------------:|
+| 2012 | S | 2650 | 60 | 2026 |
+| 2013 |   | 22442 | 412 |  |
+| 2014 |   | 31655 | 435 |  |
+| 2015 |   | 50446 | 462 |  |
+| 2016 |   | 50931 | 174 |  |
+| 2017 |   | 54715 | 251 |  |
+| 2018 |   | 50630 | 232 |  |
+| 2015 | X | 212 | 2 | 554 |
+| 2016 |   | 25312 | 116 |  |
+| 2017 |   | 46535 | 213 |  |
+| 2018 |   | 48680 | 223 |  |
+| 2017 | 3 | 1550 | 7 | 675 |
+| 2018 |   | 145610 | 668 |  |
 
 * Add the image `lives-saved.jpg`
 * Update the list of links in the first column of the layout so we can navigate between all the pages we’ve just created.
@@ -93,7 +108,7 @@ Here is a quick preview of the structure of the website. It is not a design, it 
 ### **Story #9**
 * Create a new web page named `model-3.html` that has the same structure as the previous one
 * The title of it should be `Model 3`
-* Add a description of `When the 400,000 preorders will be delivered Just those Model 3 will save 1834 lives each year!`
+* Add a description of `When the 400,000 preorders will be delivered, those Model 3 alone will save 1834 lives each year!`
 * Add the image `model-3.jpg`
 * Update the list of links in the first column of the layout so we can navigate between all the pages we’ve just created.
 
