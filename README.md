@@ -14,7 +14,7 @@ Here is a quick preview of the structure of the website. It is not a design, it 
 * The horizontal row will hold the title of the page
 * The left column will hold the navigation menu
 * The right column will hold the content of each page. 
-* The content should be unique on any page, as well as the title and description of that content. The horizontal row must have a background of `#3b5998` while the title in it the colour of `white`. The title should not be taller than it needs to be.
+* The content should be unique on any page, as well as the title and description of that content. The horizontal row must have a background color of `#3b5998` while the title in it the colour of `white`. The title should not be taller than it needs to be.
 * The group of the two vertical columns should be as wide as the webpage is and as tall as the webpage is. 
 * This width of the first column should be 250px and the background colour of it should be `#8b9dc3`.
 * The width of the second column should be the remaining available width and it should have a gap of 15px between the outer edge of the column and the content, between the border of the column and the content. The background colour should be `#dfe3ee`. 
