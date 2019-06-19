@@ -22,7 +22,7 @@ Here is a quick preview of the structure of the website. It is not a design, it 
 * The width of the second column should be the remaining available width and it should have a gap of 15px between the outer edge of the column and the content, between the border of the column and the content. The background colour should be `#dfe3ee`. 
 * Both columns should have their contents starting at the top and not in the middle or bottom.
 * Add a title to the page with the content of: `Welcome`. The same content should be present in the tab of the browser. The title should also be centred.
-* Add after the title the content `Tesla saved more than 3255 lives and, with more than 531368 electric cars on the road, saves 2437 more lives each year, or 7 more every day`. The same content should be in the meta description of the page that serves as an indicator to search engines like Google.
+* Add after the title the content `Tesla saved more than 3255 lives and, with more than 531368 electric cars on the road, saves 2437 more lives each year, or 7 more every day`. The same content should be in the meta description tag of the page that serves as an indicator to search engines like Google.
 * Add a subtitle with the content of `Welcome to the revelation`
 * Add content with the content of `Tesla is saving lives for sure. I'm REPLACE_THIS_WITH_YOUR_NAME and here is a picture of the founder of CodeTap`
 * Add the image `marian-zburlea.jpg`
