@@ -23,7 +23,7 @@ Here is a quick preview of the structure of the website. It is not a design, it 
 * Add after the title the content `Tesla saved more than 3255 lives and, with more than 531368 electric cars on the road, saves 2437 more lives each year, or 7 more every day`. The same content should be in the meta description of the page that serves as an indicator to search engines like Google.
 * Add a subtitle with the content of `Welcome to the revelation`
 * Add content with the content of `Tesla is saving lives for sure. I'm REPLACE_THIS_WITH_YOUR_NAME and here is a picture of the founder of CodeTap`
-* Add the image `marianz-burlea.jpg`
+* Add the image `marian-zburlea.jpg`
 * The picture should be as wide as possible on small or large screens
 * There should be no gap between the layout and the window of the browser.
 
