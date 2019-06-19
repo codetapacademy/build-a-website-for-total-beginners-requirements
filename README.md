@@ -6,6 +6,8 @@ Here is a quick preview of the structure of the website. It is not a design, it 
 
 ![Everyone can code](image/everyone-can-code.png)
 
+## Install Google Chrome
+
 ## _Day 1_
 ### **Story #1**
 
