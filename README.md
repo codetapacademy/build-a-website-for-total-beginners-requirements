@@ -30,7 +30,7 @@ Here is a quick preview of the structure of the website. It is not a design, it 
 * There should be no gap between the layout and the window of the browser.
 
 ### **Story #2**
-* Create a new web page named `the-problem.html` that has the same structure as the previous one
+* Create a new web page named `the-problem.html` that has the same structure as the previous one. You can use `File -> Save As`
 * The title of it should be `The problem`
 * Add a description of `Every year, toxic air pollution causes about 5,500,000 early deaths worldwide, 40,000 in the UK, 9,000 in London.`
 * Add six titles headers like in the picture below: 
